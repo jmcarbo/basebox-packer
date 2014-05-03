@@ -94,6 +94,7 @@
       "script/vmtools.sh",
       "script/provisioner.sh",
       "script/docker.sh",
+      "script/golang.sh",
       "script/cleanup.sh",
       "script/zerodisk.sh"
     ]
